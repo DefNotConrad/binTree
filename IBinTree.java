@@ -1,7 +1,7 @@
 package binTree;
 /**
  * 
- * @author Britain Mackenzie
+ * @author DefNotConrad
  *
  */
 public interface IBinTree {
