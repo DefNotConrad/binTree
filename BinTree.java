@@ -1,8 +1,7 @@
 package binTree;
 
 /**
- * @author Britain Mackenzie
- * @author A00561831
+ * @author DefNotConrad
  */
 public class BinTree implements IBinTree {
 	/**
